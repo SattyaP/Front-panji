@@ -216,3 +216,9 @@
         font-size: 12px;
     }
 }
+
+@media (width: 375px) {
+    .u-hero{
+        font-size: 30px;
+    }
+}
