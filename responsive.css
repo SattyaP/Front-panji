@@ -1,0 +1,218 @@
+/* smartphone */
+@media (min-width: 320px) and (max-width: 480px) {
+    /* hero */
+    .bg-hero{
+        margin-top: 20px;
+    }
+    .j-hero{
+        font-size: 12px;
+    }
+    .u-hero{
+        font-size: 32px;
+        padding-bottom: 10px;
+    }
+    .btn-hero{
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    .img-utama{
+        padding-top: 10px;
+    }
+
+
+    /* penjelasan */
+    .bg-penjelasan{
+        margin-top: 120px;
+    }
+
+    .j-pen{
+        font-size: 24px;
+        font-weight: 700;
+    }
+    .d-pen{
+        margin-top: 20px;
+        font-size: 12px;
+    }
+
+    
+    /* presale reservasi */
+    .d-res{
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .btn-reservasi{
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+
+
+    /* schedule */
+    .j-sc{
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: 4px;
+    }
+    .news{
+        font-weight: 700;
+        font-size: 24px;
+        letter-spacing: 4px;
+    }
+
+
+    /* news */
+    .card-news>h5{
+        text-align: center;
+    }
+    .card-news>p{
+        text-align: center;
+        font-size: 14px;
+    }
+    
+
+
+    /* tiket */
+    .j-tiket{
+        letter-spacing: 0px;
+        font-size: 25px;
+    }
+    .d-tiket{
+        font-size: 14px;
+    }
+
+    .hero-text button{
+        padding: 10px 15px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+
+    /* kritik */
+    .j-kritik{
+        font-size: 22px;
+    }
+    .form-kritik{
+        width: 200px;
+    }
+    .btn-kritik{
+        padding: 10px 30px 10px 30px;
+        font-size: 14px;
+
+    }
+
+    .j-panji{
+        font-size: 20px;
+        margin-top: 20px;
+        text-align: left;
+    }
+    .d-panji{
+        font-size: 14px;
+        text-align: left;
+    }
+
+    .email-panji{
+        font-size: 14px;
+    }
+
+    .cp-all{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+
+}
+
+/* mini smartphone */
+@media (max-width: 320px) {
+
+    /* hero */
+    .u-hero{
+        font-size: 26px;
+    }
+    .j-hero{
+        font-size: 10px;
+    }
+    .btn-hero{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+
+    /* penjelasan */
+    .j-pen{
+        font-size: 20px;
+    }
+    .d-pen{
+        font-size: 12px;
+    }
+
+    /* reservasi */
+    .j-res{
+        font-size: 20px;
+    }
+    .d-res{
+        font-size: 12px;
+    }
+    .btn-reservasi{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+    /* schedule */
+    .j-sc{
+        font-size: 20px;
+    }
+    .d-sc{
+        font-size: 12px;
+    }
+
+
+    /* news */
+    .news{
+        font-size: 20px;
+    }
+    .card-news>h5{
+        font-size: 16px;
+    }
+    .card-news>p{
+        font-size: 12px;
+    }
+
+
+    /* map */
+    .txt-map{
+        font-size: 20px;
+    }
+
+    /* tiket 2 */
+    .j-tiket{
+        font-size: 20px;
+        letter-spacing: 0px;
+    }
+    .d-tiket{
+        font-size: 12px;
+
+    }
+    .hero-text button{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+
+
+    /* kritik */
+    .j-kritik{
+        font-size: 20px;
+    }
+    .email-panji{
+        font-size: 12px;
+    }
+
+    .j-panji{
+        font-size: 20px;
+    }
+    .d-panji{
+        font-size: 12px;
+    }
+
+    .cp-all{
+        font-size: 12px;
+    }
+}
